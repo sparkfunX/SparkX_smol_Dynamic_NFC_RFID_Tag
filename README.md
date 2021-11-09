@@ -15,7 +15,7 @@ You might be wondering why we would make an NFC/RFID tag peripheral board for sm
 
 ## Product Versions
 
-- [SPX-18991(https://www.sparkfun.com/products/18991) - Original SparkX Release.
+- [SPX-18991](https://www.sparkfun.com/products/18991) - Original SparkX Release.
 
 ## License Information
 
